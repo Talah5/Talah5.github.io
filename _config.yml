@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Big_Show_October_2018.jpg/800px-Big_Show_October_2018.jpg
+avatar: https://i.pinimg.com/originals/d8/6d/d4/d86dd47ca559f5aa83c16f3c1b0038c8.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
