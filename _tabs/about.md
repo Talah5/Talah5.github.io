@@ -11,7 +11,3 @@ Je suis Bastien Houry, étudiant en BTS SIO option SISR au Lycée professionnel 
 # Pour plus d'informations
 
 Découvrez davantage sur mon parcours professionnel et mes compétences en consultant mon CV.
-
----
-
-{: .prompt-tip }
