@@ -14,3 +14,4 @@ Découvrez davantage sur mon parcours professionnel et mes compétences en consu
 
 ---
 
+{: .prompt-tip }
