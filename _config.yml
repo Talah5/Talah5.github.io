@@ -189,10 +189,10 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [catégories, Mots clés]
+  enabled: [categories,tags]
   layouts:
     category: category
-    tag: Mots clés
+    tag: tag
   permalinks:
-    tag: /Mots clés/:name/
-    category: /catégories/:name/
+    tag: /tags/:name/
+    category: /categories/:name/
