@@ -16,4 +16,4 @@ Cette approche me permet de demeurer constamment informé des dernières avancé
 
 ## Pour plus d'informations
 
-Découvrez davantage sur mon parcours professionnel et mes compétences en consultant [mon CV](https://storage.cloud.google.com/cv_bastien_houry/Bastien_Houry_CV.pdf?authuser=1).
+Découvrez davantage sur mon parcours professionnel et mes compétences en consultant [mon CV](https://storage.googleapis.com/cv_bastien_houry/CV_BastienHoury.pdf).
