@@ -1,7 +1,7 @@
 ---
 title: Mes certifications
 author: Bastien
-date: 2024-01-18 20:55:00 +0800
+date: 2024-01-29 20:55:00 +0800
 categories: [BTS]
 tags: [BTS]
 pin: true
