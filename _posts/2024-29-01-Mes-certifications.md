@@ -25,3 +25,4 @@ Root Me est une plateforme d'apprentissage en ligne axée sur la sécurité info
 ## CCNAv7
 
 Le CCNAv7, ou Cisco Certified Network Associate version 7, est un programme de certification conçu par Cisco Systems, leader mondial des solutions réseau. Il vise à valider les compétences fondamentales en réseau et en sécurité informatique. Le programme couvre une gamme étendue de sujets, allant des concepts de base des réseaux aux technologies émergentes telles que la virtualisation et le cloud computing. Les candidats apprennent à configurer, gérer et sécuriser des réseaux de petite à moyenne taille, ce qui en fait une certification précieuse pour les professionnels des technologies de l'information et des réseaux.
+
